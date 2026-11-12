@@ -1,0 +1,12 @@
+{
+  "name": "time-attack-simple-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.4"
+  }
+}
